@@ -56,7 +56,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table border="1" align="left">
-<caption>
+<caption style="color:  red; font-family: tahoma; font-size: 20px;">
 مهارت ها
 </caption>
 <tr>
@@ -74,10 +74,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption>
-**سوابق شغلی**
+<caption style="color:  yellow; font-family: tahoma; font-size: 20px;">
+ سوابق شغلی
 </caption>
-
 <tr>
 <th bgcolor="#CCCCCC">مدیر سایت و فضامجازی</th>
 <th bgcolor="#CCCCCC">مسئول درآمد</th>
@@ -93,7 +92,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table border="1">
-<caption>
+<caption style=" font-family: tahoma; font-size: 20px;">
 زبان
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
