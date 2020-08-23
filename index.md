@@ -45,13 +45,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <colgroup style="background-color:#FC0;"></colgroup>
 <tr>
 <th style="color:  block; font-family: Vazir; font-size: 15px;">کارشناسی مهندسی کامپیوتر</th>
-<th>کاردانی مهندسی شیمی</th>
-<th>دیپلم ریاضی</th>
+<th style="font-family: Vazir; font-size: 15px;">کاردانی مهندسی شیمی</th>
+<th style="font-family: Vazir; font-size: 15px;">دیپلم ریاضی</th>
 </tr>
 <tr>
-<td>دانشگاه پیام نور</td>
-<td>دانشگاه سمنان</td>
-<td>دبیرستان شریعتی سمنان</td>
+<th style="font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</th>
+<th style="font-family: Vazir; font-size: 15px;">دانشگاه سمنان</th>
+<th style="font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</th>
 </tr>
 </table>
 
