@@ -78,7 +78,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption style="color:  #CCCCCC; font-family: Vazir; font-size: 20px;">
+<caption style="color:  #6CF; font-family: Vazir; font-size: 20px;">
  سوابق شغلی
 </caption>
 <tr>
@@ -87,7 +87,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">بیمارستان کوثر سمنان</td>
-<th style="text-align:center; font-family: Vazir; font-size: 15px;">کلینیک تخصصی کوثر سمنان</th>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">کلینیک تخصصی کوثر سمنان</td>
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">1397 - 1399</td>
@@ -102,12 +102,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <colgroup style="background-color:#6CF"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
 <tr>
-<th>انگلیسی</th>
-<th>فارسی</th>
+<th style="font-family: Vazir; font-size: 15px;">انگلیسی</th>
+<th style="font-family: Vazir; font-size: 15px;">فارسی</th>
 </tr>
 <tr>
-<td>100%</td>
-<td>50%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">100%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">50%</td>
 </tr>
 </table>
  
