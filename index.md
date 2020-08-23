@@ -7,9 +7,6 @@
 <hr/>
  <p  dir="rtl" align="right" style="font-family: Vazir; font-size: 20px;">سلام محمد رضا عرب عامری هستم، متولد 1374/01/28 از سمنان، مجرد و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
  
- 
- <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
- 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
@@ -18,8 +15,8 @@
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;">ایمیل</th>
 </tr>
-<tr>
-<th>( دانلود فرم ارزیابی( چک لیست</th>
+<tr> 
+<th><a href="MA_CV_CheckList_AR_3983 (1)" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
 </tr>
