@@ -21,17 +21,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <tr>
 <th bgcolor="#CCCCCC"><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
 <th bgcolor="#CCCCCC"><a href="https://mrameri313@gmail.com">mrameri313@gmail.com</a></th>
-<th bgcolor="#CCCCCC">ایمیل</th>
+<th style="color:  red; font-family: Vazir; font-size: 10px;">ایمیل</th>
 </tr>
 <tr>
 <td>سلول 1</td>
 <th bgcolor="#CCCCCC">09199985002</th>
-<td style="color:  blue; font-family: Vazir; font-size: 20px;">موبایل</td>
+<td style="color:  red; font-family: Vazir; font-size: 10px;">موبایل</td>
 </tr>
 <tr>
 <td>سلول 4</td>
 <td><a href="https://twitter.com/eng_arabameri">eng_arabameri</a></td>
-<td>توییتر</td>
+<td style="color:  red; font-family: Vazir; font-size: 10px;">توییتر</td>
 </tr>
 </table>
  <hr/>
