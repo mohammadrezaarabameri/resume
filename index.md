@@ -42,7 +42,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <colgroup style="background-color:#CCC"></colgroup>
 <colgroup style="background-color:#FC0;"></colgroup>
 <tr>
-<th>کارشناسی مهندسی کامپیوتر/دانشگاه پیام نور</th>
+<th>کارشناسی مهندسی کامپیوتر
+ دانشگاه پیام نور</th>
 <th>کاردانی مهندسی شیمی/دانشگاه سمنان</th>
 <th>دیپلم ریاضی/دبیرستان شریعتی سمنان</th>
 </tr>
