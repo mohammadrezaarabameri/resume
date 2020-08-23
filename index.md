@@ -71,6 +71,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <th>python</th>
 <th>java</th>
 </tr>
+<tr>
+<td>70%</td>
+<td>60%</td>
+</tr>
 </table>
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
