@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
- <p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 100px;">محمدرضا عرب عامری</p>
+ <p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 20px;">محمدرضا عرب عامری</p>
  <hr/>
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
  
@@ -17,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 جدول شماره 1
 </caption>
 <tr>
-<th bgcolor="#CCCCCC">تیتر 1</th>
+<th bgcolor="#CCCCCC"><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
 <th bgcolor="#CCCCCC"><a href="https://mrameri313@gmail.com">mrameri313@gmail.com</a></th>
 <th bgcolor="#CCCCCC">ایمیل</th>
 </tr>
