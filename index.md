@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
  <p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 100px;">محمدرضا عرب عامری</p>
+ <p style="font-size: 100px;">محمدرضا عرب عامری</p>
 ```markdown
 Syntax highlighted code block
 
