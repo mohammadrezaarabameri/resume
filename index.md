@@ -64,16 +64,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <th>java</th>
 </tr>
 <tr>
-<td>70%</td>
-<td>60%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">70%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">60%</td>
 </tr>
 <tr>
-<th>python</th>
-<th>java</th>
+<th>c++</th>
+<th>photoshopjava</th>
 </tr>
 <tr>
-<td>70%</td>
-<td>60%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">60%</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">50%</td>
 </tr>
 </table>
 
