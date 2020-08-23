@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<img dir="rtl" align="right" src="Rmage-1.png">
+<img dir="rtl" align="right" src="Rmage-1.png" width="42" height="42">
 .
 <p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
 <p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">مهندس کامپیوتر</p>
