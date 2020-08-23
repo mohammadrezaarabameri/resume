@@ -103,7 +103,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td>100%</td>
-<td>50%</td
+<td>50%</td>
 </tr>
 </table>
  
