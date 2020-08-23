@@ -49,9 +49,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <th style="font-family: Vazir; font-size: 15px;">دیپلم ریاضی</th>
 </tr>
 <tr>
-<td style="font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</th>
-<td style="font-family: Vazir; font-size: 15px;">دانشگاه سمنان</th>
-<td style="font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</th>
+<td style="font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</td>
+<td style="font-family: Vazir; font-size: 15px;">دانشگاه سمنان</td>
+<td style="font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</td>
 </tr>
 </table>
 
