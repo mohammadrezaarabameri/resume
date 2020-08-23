@@ -16,8 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
  
  <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption style="font-family: tahoma; font-size: 20px;">
-جدول شماره 1
+<caption style="color:  blue; font-family: tahoma; font-size: 20px;">
 </caption>
 <tr>
 <th bgcolor="#CCCCCC"><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
@@ -38,8 +37,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 <table border="1">
-<caption>
-## سوابق تحصیلی
+<caption style="color:  blue; font-family: tahoma; font-size: 20px;">
+سوابق تحصیلی
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
