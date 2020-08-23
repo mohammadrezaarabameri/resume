@@ -103,9 +103,9 @@
 </tr>
 </table>
  <hr/>
- <tr>
-<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></th>
-<th><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
-<th><a href="https://mohammadrezaarabameri.github.io/resumeEN/" style="font-family: Vazir; font-size: 15px;">رزومه انگلیسی</a></th>
+ 
+<p  dir="rtl" align="right" style="font-family: Vazir; font-size: 25px;"><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></p>
+<p  dir="rtl" align="right" style="font-family: Vazir; font-size: 25px;"><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></p>
+<p  dir="rtl" align="right" style="font-family: Vazir; font-size: 25px;"><a href="https://mohammadrezaarabameri.github.io/resumeEN/" style="font-family: Vazir; font-size: 15px;">رزومه انگلیسی</a></p>
  </tr>
 </table>
