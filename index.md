@@ -33,6 +33,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 </table>
 
+
+<table border="1">
+<caption>
+سوابق تحصیلی
+</caption>
+<colgroup style="background-color:#6CF"></colgroup>
+<colgroup style="background-color:#CCC"></colgroup>
+<colgroup style="background-color:#FC0;"></colgroup>
+<tr>
+<th>تیتر جدول</th>
+<th>تیتر جدول</th>
+<th>تیتر جدول</th>
+</tr>
+<tr>
+<td>محتوای جدول</td>
+<td>محتوای جدول</td>
+<td>محتوای جدول</td>
+</tr>
+</table>
+
 ```markdown
 Syntax highlighted code block
 
