@@ -1,7 +1,7 @@
 
 
 
-<img dir="rtl" align="right" src="Image.png" width="150" height="150">
+<img src="Image.png" width="150" height="150">
 .
 <p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
 <p  dir="rtl" align="right" style="font-family: Vazir; font-size: 20px;">مهندس کامپیوتر</p>
@@ -26,7 +26,7 @@
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
 </tr>
 <tr>
-<th>رزومه انگلیسی</th>
+<th><a href="https://mohammadrezaarabameri.github.io/resumeEN/" style="font-family: Vazir; font-size: 15px;">رزومه انگلیسی</a></th>
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>توییتر</b></th>
 </tr>
