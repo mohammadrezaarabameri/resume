@@ -18,8 +18,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </caption>
 <tr>
 <th bgcolor="#CCCCCC">تیتر 1</th>
-<th bgcolor="#CCCCCC">تیتر 2</th>
-<th bgcolor="#CCCCCC">تیتر 3</th>
+<th bgcolor="#CCCCCC"><a href="https://mrameri313@gmail.com">mrameri313@gmail.com</a></th>
+<th bgcolor="#CCCCCC">ایمیل</th>
 </tr>
 <tr>
 <td>سلول 1</td>
