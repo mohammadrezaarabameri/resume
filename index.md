@@ -78,20 +78,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption style="color:  yellow; font-family: Vazir; font-size: 20px;">
+<caption style="color:  #CCCCCC; font-family: Vazir; font-size: 20px;">
  سوابق شغلی
 </caption>
 <tr>
-<th bgcolor="#CCCCCC">مدیر سایت و فضامجازی</th>
-<th bgcolor="#CCCCCC">مسئول درآمد</th>
+<th style="font-family: Vazir; font-size: 15px;">مدیر سایت و فضامجازی</th>
+<th style="font-family: Vazir; font-size: 15px;">مسئول درآمد</th>
 </tr>
 <tr>
-<td>بیمارستان کوثر سمنان</td>
-<th bgcolor="#CCCCCC">کلینیک تخصصی کوثر سمنان</th>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">بیمارستان کوثر سمنان</td>
+<th style="text-align:center; font-family: Vazir; font-size: 15px;">کلینیک تخصصی کوثر سمنان</th>
 </tr>
 <tr>
-<td>1397 - 1399</td>
-<td>1393 - 1397</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">1397 - 1399</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">1393 - 1397</td>
 </tr>
 </table>
 
