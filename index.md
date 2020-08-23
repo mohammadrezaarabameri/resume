@@ -26,7 +26,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <tr>
 <td>سلول 1</td>
 <th bgcolor="#CCCCCC">09199985002</th>
-<td>موبایل</td>
+<td style="color:  blue; font-family: Vazir; font-size: 20px;">موبایل</td>
 </tr>
 <tr>
 <td>سلول 4</td>
