@@ -100,7 +100,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 زبان
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
-<colgroup style="background-color:#CCC"></colgroup>
+<colgroup style="background-color:#6CF"></colgroup>
 <tr>
 <th style="font-family: Vazir; font-size: 15px;">انگلیسی</th>
 <th style="font-family: Vazir; font-size: 15px;">فارسی</th>
