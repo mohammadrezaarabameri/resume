@@ -23,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td>سلول 1</td>
-<td>09199985002</td>
+<th bgcolor="#CCCCCC">09199985002</th>
 <td>موبایل</td>
 </tr>
 <tr>
