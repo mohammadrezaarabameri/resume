@@ -28,8 +28,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td>سلول 4</td>
-<td>سلول 5</td>
-<td>سلول 6</td>
+<td><a href="https://twitter.com/eng_arabameri">eng_arabameri</a></td>
+<td>توییتر</td>
 </tr>
 </table>
 
