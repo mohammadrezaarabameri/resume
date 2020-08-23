@@ -11,6 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  <p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 100px;">محمدرضا عرب عامری</p>
  <hr/>
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
+ 
+ <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
+<caption>
+جدول شماره 1
+</caption>
+<tr>
+<th bgcolor="#CCCCCC">تیتر 1</th>
+<th bgcolor="#CCCCCC">تیتر 2</th>
+<th bgcolor="#CCCCCC">تیتر 3</th>
+</tr>
+<tr>
+<td>سلول 1</td>
+<td>سلول 2</td>
+<td>سلول 3</td>
+</tr>
+<tr>
+<td>سلول 4</td>
+<td>سلول 5</td>
+<td>سلول 6</td>
+</tr>
+</table>
+
 ```markdown
 Syntax highlighted code block
 
