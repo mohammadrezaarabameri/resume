@@ -95,22 +95,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <table border="1">
 <caption>
-سوابق تحصیلی
+زبان
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
-<colgroup style="background-color:#FC0;"></colgroup>
 <tr>
-<th>کارشناسی مهندسی کامپیوتر</th>
-<th>کاردانی مهندسی شیمی</th>
-<th>دیپلم ریاضی</th>
+<th>انگلیسی</th>
+<th>فارسی</th>
 </tr>
 <tr>
-<td>دانشگاه پیام نور</td>
-<td>دانشگاه سمنان</td>
-<td>دبیرستان شریعتی سمنان</td>
+<td>100%</td>
+<td>50%</td
 </tr>
-
+</table>
+ 
 ```markdown
 Syntax highlighted code block
 
