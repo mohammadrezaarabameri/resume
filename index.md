@@ -11,17 +11,17 @@
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr>
-<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></th>
+
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;">ایمیل</th>
 </tr>
 <tr> 
-<th><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
+
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
 </tr>
 <tr>
-<th><a href="https://mohammadrezaarabameri.github.io/resumeEN/" style="font-family: Vazir; font-size: 15px;">رزومه انگلیسی</a></th>
+
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>توییتر</b></th>
 </tr>
@@ -103,3 +103,9 @@
 </tr>
 </table>
  <hr/>
+ <tr>
+<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></th>
+<th><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
+<th><a href="https://mohammadrezaarabameri.github.io/resumeEN/" style="font-family: Vazir; font-size: 15px;">رزومه انگلیسی</a></th>
+ </tr>
+</table>
