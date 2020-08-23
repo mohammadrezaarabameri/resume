@@ -40,18 +40,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 <b>سوابق تحصیلی</b>
 </caption>
-<colgroup style="background-color:#6CF"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
-<colgroup style="background-color:#FC0;"></colgroup>
+<colgroup style="background-color:#CCC"></colgroup>
+<colgroup style="background-color:#CCC"></colgroup>
 <tr>
 <th style="color:  block; font-family: Vazir; font-size: 15px;">کارشناسی مهندسی کامپیوتر</th>
 <th style="font-family: Vazir; font-size: 15px;">کاردانی مهندسی شیمی</th>
 <th style="font-family: Vazir; font-size: 15px;">دیپلم ریاضی</th>
 </tr>
 <tr>
-<th style="font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</th>
-<th style="font-family: Vazir; font-size: 15px;">دانشگاه سمنان</th>
-<th style="font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</th>
+<td style="font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</th>
+<td style="font-family: Vazir; font-size: 15px;">دانشگاه سمنان</th>
+<td style="font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</th>
 </tr>
 </table>
 
