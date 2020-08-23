@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-<img dir="rtl" align="center" src="Image.png" width="150" height="150">
+<img align="center" src="Image.png" width="150" height="150">
 .
 <p  dir="rtl" align="center" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
 <p  dir="rtl" align="center" style="color:  blue; font-family: Vazir; font-size: 25px;">مهندس کامپیوتر</p>
