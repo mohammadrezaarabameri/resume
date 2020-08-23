@@ -68,8 +68,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <td>60%</td>
 </tr>
 <tr>
-<td>محتوای جدول</td>
-<td>محتوای جدول</td>
+<th>python</th>
+<th>java</th>
 </tr>
 </table>
 
