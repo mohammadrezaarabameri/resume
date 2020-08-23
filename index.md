@@ -16,7 +16,7 @@
 <th style="color:  red; font-family: Vazir; font-size: 15px;">ایمیل</th>
 </tr>
 <tr> 
-<th><a href="MA_CV_CheckList_AR_3983 (1)" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
+<th><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">(دانلود فرم ارزیابی(چک لیست</a></th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
 </tr>
