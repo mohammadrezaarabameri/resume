@@ -60,16 +60,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 مهارت ها
 </caption>
 <tr>
-<th>python</th>
-<th>java</th>
+<th style="font-size: 15px;">python</th>
+<th style="font-size: 15px;">java</th>
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">70%</td>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">60%</td>
 </tr>
 <tr>
-<th>c++</th>
-<th>photoshopjava</th>
+<th style="font-size: 15px;">c++</th>
+<th style="font-size: 15px;">photoshop</th>
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">60%</td>
