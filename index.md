@@ -74,6 +74,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 </table>
 
+<table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
+<caption>
+جدول شماره 4
+</caption>
+
+<tr>
+<th bgcolor="#CCCCCC">مدیر سایت و فضامجازی</th>
+<th bgcolor="#CCCCCC">مسئول درآمد</th>
+</tr>
+<tr>
+<td>بیمارستان کوثر سمنان</td>
+<th bgcolor="#CCCCCC">کلینیک تخصصی کوثر سمنان</th>
+</tr>
+<tr>
+<td>1397 - 1399</td>
+<td>1393 - 1397</td>
+</tr>
+</table>
+
 ```markdown
 Syntax highlighted code block
 
