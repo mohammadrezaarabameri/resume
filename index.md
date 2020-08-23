@@ -19,19 +19,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr>
-<th bgcolor="#CCCCCC"><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
+<th><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
 <th bgcolor="#CCCCCC"><a href="https://mrameri313@gmail.com">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 10px;">ایمیل</th>
 </tr>
 <tr>
 <td><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></td>
-<th bgcolor="#CCCCCC">09199985002</th>
-<th style="color:  red; font-family: Vazir; font-size: 10px;"><b>موبایل</b></th>
+<th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
 </tr>
 <tr>
 <td>سلول 4</td>
 <td><a href="https://twitter.com/eng_arabameri">eng_arabameri</a></td>
-<th style="color:  red; font-family: Vazir; font-size: 10px;"><b>توییتر</b></th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>توییتر</b></th>
 </tr>
 </table>
  <hr/>
