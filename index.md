@@ -58,12 +58,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 مهارت ها
 </caption>
 <tr>
-<th>تیتر جدول</th>
-<th>تیتر جدول</th>
+<th>python</th>
+<th>java</th>
 </tr>
 <tr>
-<td>محتوای جدول</td>
-<td>محتوای جدول</td>
+<td>70%</td>
+<td>60%</td>
 </tr>
 <tr>
 <td>محتوای جدول</td>
