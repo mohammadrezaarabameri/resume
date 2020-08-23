@@ -2,7 +2,9 @@
 
 
 <img dir="rtl" align="right" src="Untitled-1.png">
+
 <p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
+<p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">مهندس کامپیوتر</p>
 <hr/>
  <p  dir="rtl" align="right" style="font-family: Vazir; font-size: 20px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
  
