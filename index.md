@@ -34,7 +34,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <td>توییتر</td>
 </tr>
 </table>
-
+  <hr style="color:  blue;">
+ <hr/>
 
 <table border="1">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
