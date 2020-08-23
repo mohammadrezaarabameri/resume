@@ -20,7 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </caption>
 <tr>
 <th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></th>
-<th <a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
+<th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;">ایمیل</th>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td>سلول 4</td>
-<td><a href="https://twitter.com/eng_arabameri">eng_arabameri</a></td>
+<td><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></td>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>توییتر</b></th>
 </tr>
 </table>
