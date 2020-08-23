@@ -1,12 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mohammadrezaarabameri/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
 <hr/>
