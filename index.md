@@ -8,15 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 25px;">محمدرضا عرب عامری</p>
+<p  dir="rtl" align="right" style="color:  blue; font-family: Vazir; font-size: 25px;">محمدرضا عرب عامری</p>
 <hr/>
- <p  dir="rtl" align="right" style="font-family: tahoma; font-size: 20px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
+ <p  dir="rtl" align="right" style="font-family: Vazir; font-size: 20px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
  <hr/>
  
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
  
  <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption style="color:  blue; font-family: tahoma; font-size: 20px;">
+<caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr>
 <th bgcolor="#CCCCCC"><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
@@ -37,7 +37,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 <table border="1">
-<caption style="color:  blue; font-family: tahoma; font-size: 20px;">
+<caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 سوابق تحصیلی
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
@@ -56,7 +56,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table border="1" align="left">
-<caption style="color:  red; font-family: tahoma; font-size: 20px;">
+<caption style="color:  red; font-family: Vazir; font-size: 20px;">
 مهارت ها
 </caption>
 <tr>
@@ -74,7 +74,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
-<caption style="color:  yellow; font-family: tahoma; font-size: 20px;">
+<caption style="color:  yellow; font-family: Vazir; font-size: 20px;">
  سوابق شغلی
 </caption>
 <tr>
@@ -92,7 +92,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </table>
 
 <table border="1">
-<caption style=" font-family: tahoma; font-size: 20px;">
+<caption style=" font-family: Vazir; font-size: 20px;">
 زبان
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
