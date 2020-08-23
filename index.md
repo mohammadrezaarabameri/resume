@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <p  dir="rtl" align="right" style="color:  blue; font-family: tahoma; font-size: 20px;">محمدرضا عرب عامری</p>
 <hr/>
- <p  dir="rtl" align="right" font-family: tahoma; font-size: 10px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
+ <p  dir="rtl" align="right" style="font-family: tahoma; font-size: 10px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
  <hr/>
  
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
