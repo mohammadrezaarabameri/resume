@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr>
-<th><a href="https://quera.ir/profile/mrameri313">صفحه من در وب سایت کوئرا</a></th>
+<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 10px;">صفحه من در وب سایت کوئرا</a></th>
 <th bgcolor="#CCCCCC"><a href="https://mrameri313@gmail.com">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 10px;">ایمیل</th>
 </tr>
