@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-<p dir="rtl" align="right">محمدرضا عرب عامری</p>
 
+ <p  dir="rtl" align="right" style="color:  blue;  font-family: tahoma;  font-size: 10px;">محمدرضا عرب عامری</p>
 ```markdown
 Syntax highlighted code block
 
