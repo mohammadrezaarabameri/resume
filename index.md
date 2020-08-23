@@ -76,7 +76,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption>
-جدول شماره 4
+**سوابق شغلی**
 </caption>
 
 <tr>
@@ -92,6 +92,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <td>1393 - 1397</td>
 </tr>
 </table>
+
+<table border="1">
+<caption>
+سوابق تحصیلی
+</caption>
+<colgroup style="background-color:#6CF"></colgroup>
+<colgroup style="background-color:#CCC"></colgroup>
+<colgroup style="background-color:#FC0;"></colgroup>
+<tr>
+<th>کارشناسی مهندسی کامپیوتر</th>
+<th>کاردانی مهندسی شیمی</th>
+<th>دیپلم ریاضی</th>
+</tr>
+<tr>
+<td>دانشگاه پیام نور</td>
+<td>دانشگاه سمنان</td>
+<td>دبیرستان شریعتی سمنان</td>
+</tr>
 
 ```markdown
 Syntax highlighted code block
